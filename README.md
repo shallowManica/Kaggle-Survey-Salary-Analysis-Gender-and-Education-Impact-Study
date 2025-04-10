@@ -120,6 +120,7 @@ These visualizations provide an initial understanding of the data structure and 
 
 The project underscores the importance of combining traditional statistical methods with bootstrapping techniques, particularly when working with non-normal data distributions.
 
+![Summary Image](summary.png)
 ---
 
 ## How to Run the Analysis
