@@ -1,4 +1,3 @@
-# Kaggle Survey Salary Analysis: Gender and Education Impact Study
 
 This repository presents a thorough analysis of the Kaggle 2022 Survey data to investigate salary disparities among data science professionals. The analysis focuses on two major research questions:
 
